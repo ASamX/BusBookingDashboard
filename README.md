@@ -1,4 +1,4 @@
-# MERN-BUS-APP
+# Interstellar Travels
 
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
@@ -9,9 +9,11 @@ The Bus ticket application is composed of the following Features:
 
 * Sign-In & Sign-Up Pages.
 
-* Uses Token based system, so only registered users can access the website  passport js.
+* Admin's Data are stored in the databse and can't sign up for a new accoont.
 
-* Password hashing using passport js.
+* Travelers's data are stored in the databse and can sign up for a new account by facebook or twitter 
+
+* Uses Token based system, so only registered users can access the website  passport js.
 
 * Has a profile page, which will display all information about the signed in user.
 
