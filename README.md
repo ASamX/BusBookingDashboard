@@ -90,17 +90,6 @@ Follow the following steps to get development environment running.
   git clone git@github.com:AdityaKumawat97/MERN-BUS-APP.git
   ```
 
-* Install node modules
-
-   ```bash
-   cd MERN-BUS-APP
-   cd frontend
-   npm install
-   cd..
-   cd backend
-   npm install
-   ```
-
 
 ### Starting both front end and back end servers
 
